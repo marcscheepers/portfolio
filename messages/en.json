@@ -1,0 +1,75 @@
+{
+  "Nav": {
+    "home": "Home",
+    "cv": "CV",
+    "projects": "Projects",
+    "blog": "Blog",
+    "linkedin": "LinkedIn",
+    "media": "Media",
+    "contact": "Contact"
+  },
+  "Home": {
+    "openToWork": "Open to new opportunities",
+    "ctaProjects": "View projects",
+    "ctaContact": "Get in touch",
+    "featuredProjects": "Featured work",
+    "latestPosts": "Latest blog posts",
+    "aboutTeaser": "Over ten years of experience in campaign operations, organizing, and political movement building in the Netherlands.",
+    "aboutLink": "View full CV"
+  },
+  "CV": {
+    "title": "Curriculum Vitae",
+    "downloadCv": "Download CV (PDF)",
+    "experience": "Work experience",
+    "education": "Education",
+    "skills": "Skills",
+    "testimonials": "Testimonials"
+  },
+  "Projects": {
+    "title": "Projects",
+    "intro": "A selection of campaigns and operational projects I have worked on in recent years."
+  },
+  "Blog": {
+    "title": "Blog",
+    "intro": "Notes on campaigning, organizing, and operational lessons.",
+    "readMore": "Read more",
+    "minutesRead": "{minutes} min read",
+    "backToBlog": "Back to blog"
+  },
+  "LinkedIn": {
+    "title": "LinkedIn",
+    "intro": "An overview of recent posts, including views, likes, and reactions.",
+    "followCta": "Follow me on LinkedIn",
+    "readMore": "Read more",
+    "readLess": "Show less",
+    "views": "views",
+    "likes": "likes",
+    "reactions": "reactions",
+    "comments": "comments",
+    "viewOnLinkedIn": "View on LinkedIn"
+  },
+  "Media": {
+    "title": "Media",
+    "intro": "Publications, interviews, and appearances."
+  },
+  "Contact": {
+    "title": "Contact",
+    "intro": "Question, collaboration, or just want to say hi? Send a message.",
+    "name": "Name",
+    "email": "Email address",
+    "subject": "Subject",
+    "message": "Message",
+    "send": "Send message",
+    "sending": "Sending...",
+    "success": "Thanks, your message has been sent.",
+    "error": "Something went wrong. Please try again later or email directly.",
+    "directly": "Or email directly to",
+    "nameRequired": "Please enter your name.",
+    "emailInvalid": "Please enter a valid email address.",
+    "subjectRequired": "Please enter a subject.",
+    "messageRequired": "Please enter a message."
+  },
+  "Footer": {
+    "rights": "All rights reserved."
+  }
+}

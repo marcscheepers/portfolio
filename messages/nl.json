@@ -1,0 +1,75 @@
+{
+  "Nav": {
+    "home": "Home",
+    "cv": "CV",
+    "projects": "Projecten",
+    "blog": "Blog",
+    "linkedin": "LinkedIn",
+    "media": "Media",
+    "contact": "Contact"
+  },
+  "Home": {
+    "openToWork": "Beschikbaar voor nieuwe kansen",
+    "ctaProjects": "Bekijk projecten",
+    "ctaContact": "Neem contact op",
+    "featuredProjects": "Uitgelicht werk",
+    "latestPosts": "Recente blogposts",
+    "aboutTeaser": "Meer dan tien jaar ervaring in campagneoperaties, organizing en politieke bewegingsopbouw in Nederland.",
+    "aboutLink": "Bekijk volledig CV"
+  },
+  "CV": {
+    "title": "Curriculum Vitae",
+    "downloadCv": "Download CV (PDF)",
+    "experience": "Werkervaring",
+    "education": "Opleiding",
+    "skills": "Vaardigheden",
+    "testimonials": "Aanbevelingen"
+  },
+  "Projects": {
+    "title": "Projecten",
+    "intro": "Een selectie van campagnes en operationele trajecten waar ik de afgelopen jaren aan heb gewerkt."
+  },
+  "Blog": {
+    "title": "Blog",
+    "intro": "Aantekeningen over campagnevoeren, organizing en operationele lessen.",
+    "readMore": "Lees verder",
+    "minutesRead": "{minutes} min. leestijd",
+    "backToBlog": "Terug naar blog"
+  },
+  "LinkedIn": {
+    "title": "LinkedIn",
+    "intro": "Een overzicht van recente posts, inclusief weergaven, likes en reacties.",
+    "followCta": "Volg mij op LinkedIn",
+    "readMore": "Lees meer",
+    "readLess": "Toon minder",
+    "views": "weergaven",
+    "likes": "likes",
+    "reactions": "reacties",
+    "comments": "opmerkingen",
+    "viewOnLinkedIn": "Bekijk op LinkedIn"
+  },
+  "Media": {
+    "title": "Media",
+    "intro": "Publicaties, interviews en optredens."
+  },
+  "Contact": {
+    "title": "Contact",
+    "intro": "Vraag, samenwerking of gewoon even kennismaken? Stuur een bericht.",
+    "name": "Naam",
+    "email": "E-mailadres",
+    "subject": "Onderwerp",
+    "message": "Bericht",
+    "send": "Verstuur bericht",
+    "sending": "Versturen...",
+    "success": "Bedankt, je bericht is verzonden.",
+    "error": "Er ging iets mis. Probeer het later opnieuw of mail direct.",
+    "directly": "Of mail direct naar",
+    "nameRequired": "Vul je naam in.",
+    "emailInvalid": "Vul een geldig e-mailadres in.",
+    "subjectRequired": "Vul een onderwerp in.",
+    "messageRequired": "Vul een bericht in."
+  },
+  "Footer": {
+    "rights": "Alle rechten voorbehouden."
+  }
+}

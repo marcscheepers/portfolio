@@ -1,0 +1,61 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-bg: #faf9f6;
+  --color-bg-secondary: #f1efe9;
+  --color-text: #15171b;
+  --color-text-secondary: #5b5f66;
+  --color-border: #e4e1d8;
+  --color-accent: #2f4858;
+  --color-highlight: #c98f4e;
+}
+
+.dark {
+  --color-bg: #14161a;
+  --color-bg-secondary: #1c1f24;
+  --color-text: #f2f1ed;
+  --color-text-secondary: #a7abb3;
+  --color-border: #2a2d33;
+  --color-accent: #7fa6b6;
+  --color-highlight: #d9a566;
+}
+
+* {
+  border-color: var(--color-border);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--color-bg);
+  color: var(--color-text);
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+:focus-visible {
+  outline: 2px solid var(--color-accent);
+  outline-offset: 3px;
+}
+
+.dateline {
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--color-text-secondary);
+}
